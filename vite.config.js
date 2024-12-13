@@ -9,6 +9,9 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
+  build: {
+    chunkSizeWarningLimit: 1000,
+  },
   resolve: {
     alias: {
       '@assets': resolve(__dirname, './assets'),
