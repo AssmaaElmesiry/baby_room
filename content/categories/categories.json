@@ -1,0 +1,166 @@
+{
+  "en": {
+    "strollers": {
+      "name": "Strollers",
+      
+      "subcategories": {
+        "lightweight": "Lightweight Strollers",
+        "double": "Double Strollers"
+      }
+    },
+    "dress": {
+      "name": "Dresses",
+      
+      "subcategories": {
+        "casual": "Casual Dresses",
+        "formal": "Formal Dresses"
+      }
+    },
+    "bedding": {
+      "name": "Bedding",
+      
+      "subcategories": {
+        "crib": "Crib Bedding",
+        "sheets": "Sheets"
+      }
+    },
+    "footwear": {
+      "name": "Footwear",
+      
+      "subcategories": {
+        "sneakers": "Sneakers",
+        "boots": "Boots"
+      }
+    },
+    "safety": {
+      "name": "Safety",
+      
+      "subcategories": {
+        "carSeats": "Car Seats",
+        "monitors": "Monitors"
+      }
+    },
+    "toys": {
+      "name": "Toys",
+      
+      "subcategories": {
+        "educational": "Educational Toys",
+        "stuffed": "Stuffed Toys"
+      }
+    },
+    "feeding": {
+      "name": "Feeding",
+      
+      "subcategories": {
+        "bottles": "Bottles",
+        "highChairs": "High Chairs"
+      }
+    },
+    "bathing": {
+      "name": "Bathing",
+      
+      "subcategories": {
+        "tubs": "Bath Tubs",
+        "bathToys": "Bath Toys"
+      }
+    },
+    "maternity": {
+      "name": "Maternity",
+      
+      "subcategories": {
+        "clothing": "Maternity Clothing",
+        "nursing": "Nursing Products"
+      }
+    },
+    "clothes": {
+      "name": "Clothes",
+      
+      "subcategories": {
+        "infant": "Infant Clothes",
+        "toddler": "Toddler Clothes"
+      }
+    }
+  },
+  "ar": {
+    "strollers": {
+      "name": "عربات الأطفال",
+      
+      "subcategories": {
+        "lightweight": "عربات خفيفة",
+        "double": "عربات مزدوجة"
+      }
+    },
+    "dress": {
+      "name": "فساتين",
+      
+      "subcategories": {
+        "casual": "فساتين كاجوال",
+        "formal": "فساتين رسمية"
+      }
+    },
+    "bedding": {
+      "name": "أغطية السرير",
+      
+      "subcategories": {
+        "crib": "أغطية المهد",
+        "sheets": "ملاءات"
+      }
+    },
+    "footwear": {
+      "name": "أحذية",
+      
+      "subcategories": {
+        "sneakers": "أحذية رياضية",
+        "boots": "أحذية طويلة"
+      }
+    },
+    "safety": {
+      "name": "السلامة",
+      
+      "subcategories": {
+        "carSeats": "مقاعد السيارات",
+        "monitors": "أجهزة المراقبة"
+      }
+    },
+    "toys": {
+      "name": "ألعاب",
+      
+      "subcategories": {
+        "educational": "ألعاب تعليمية",
+        "stuffed": "ألعاب محشوة"
+      }
+    },
+    "feeding": {
+      "name": "التغذية",
+      
+      "subcategories": {
+        "bottles": "زجاجات الحليب",
+        "highChairs": "الكراسي العالية"
+      }
+    },
+    "bathing": {
+      "name": "الاستحمام",
+      
+      "subcategories": {
+        "tubs": "أحواض الاستحمام",
+        "bathToys": "ألعاب الاستحمام"
+      }
+    },
+    "maternity": {
+      "name": "الأمومة",
+      
+      "subcategories": {
+        "clothing": "ملابس الأمومة",
+        "nursing": "منتجات الرضاعة"
+      }
+    },
+    "clothes": {
+      "name": "ملابس",
+      
+      "subcategories": {
+        "infant": "ملابس الرضع",
+        "toddler": "ملابس الأطفال"
+      }
+    }
+  }
+}

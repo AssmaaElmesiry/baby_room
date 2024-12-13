@@ -1,0 +1,397 @@
+{
+  "menu": {
+    "home":"Home",
+    "shop":"Shop",
+    "favorites":"Favorites",
+    "strollers":"Strollers",
+    "clothes":"Clothes",
+    "feeding":"Feeding",
+    "nursing":"Nursing",
+    "support": "24/7 Support Center",
+    "shopping_cart": "Shopping Cart",
+    "cart_empty": "Your basket is waiting, add your favorite products!",
+    "wishlist_empty": "Your wishlist is waiting, add your favorite products!",
+    "your_cart":"Your Cart",
+    "your_wishlist":"Your Wishlist",
+    "There_are": "There are",
+    "products_in_your_cart": "products in your cart",
+    "products_in_your_wishlist": "products in your Wishlist",
+    "products_in_this_category" : "products in this category",
+    "login": "Login"
+  },
+  "header":{
+    "account": "Account",
+    "compare": "Compare",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "browse":"Browse All Categories",
+    "hot_deals": "Hot Deals"
+  },
+  "home":{
+    "dont_miss": "Don’t miss amazing baby deals",
+    "newsletter": "Sign up for the daily newsletter",
+    "subscribe": "Subscribe",
+    "featured_categories": "Featured Categories",
+    "items": "items",
+    "all": "All",
+    "banner1_title": "Everyday New & Used Products for your baby",
+    "popular_products": "Popular Products",
+    "best_sellers": "Best Sellers",
+    "best_sellers_banner": "Bring nature into your home",
+    "deals": "Deals Of The Days",
+    "all_deals": "All Deals",
+    "add": "Add",
+    "top_selling": "Top Selling",
+    "trending_products" : "Trending Products",
+    "recently_added" : "Recently added",
+    "top_rated": "Top Rated",
+    "banner2_title": "Stay home & get your baby needs from our shop",
+    "start_shopping": "Start shopping now, All you need here."
+  },
+  "categories": {
+    "strollers": {
+      "name": "Strollers",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "lightweight": "Lightweight Strollers",
+        "double": "Double Strollers"
+      }
+    },
+    "dress": {
+      "name": "Dresses",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "casual": "Casual Dresses",
+        "formal": "Formal Dresses"
+      }
+    },
+    "bedding": {
+      "name": "Bedding",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "crib": "Crib Bedding",
+        "sheets": "Sheets"
+      }
+    },
+    "footwear": {
+      "name": "Footwear",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "sneakers": "Sneakers",
+        "boots": "Boots"
+      }
+    },
+    "safety": {
+      "name": "Safety",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "carSeats": "Car Seats",
+        "monitors": "Monitors"
+      }
+    },
+    "toys": {
+      "name": "Toys",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "educational": "Educational Toys",
+        "stuffed": "Stuffed Toys"
+      }
+    },
+    "feeding": {
+      "name": "Feeding",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "bottles": "Bottles",
+        "highChairs": "High Chairs"
+      }
+    },
+    "bathing": {
+      "name": "Bathing",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "tubs": "Bath Tubs",
+        "bathToys": "Bath Toys"
+      }
+    },
+    "maternity": {
+      "name": "Maternity",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "clothing": "Maternity Clothing",
+        "nursing": "Nursing Products"
+      }
+    },
+    "clothes": {
+      "name": "Clothes",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "infant": "Infant Clothes",
+        "toddler": "Toddler Clothes"
+      }
+    }
+  },
+  "buttons":{
+    "shop_now": "Shop Now",
+    "add_to_cart": "Add To Cart",
+    "read_more": "Read More",
+    "continue_shopping": "Continue Shopping",
+    "update_cart": "Update Cart"
+  },
+  "footer": {
+    "address": "Address",
+    "place": "51 Fifth Settlement, Section One, Villa 193, Cairo, Egypt.",
+    "call_us": "Call Us",
+    "email": "Email",
+    "hours": "Hours",
+    "company": "Company",
+    "account": "Account",
+    "information": "Information",
+    "app_payment": "App & Payment",
+    "about_us": "About Us",
+    "delivery_information": "Delivery Information",
+    "privacy_policy": "Privacy Policy",
+    "terms_conditions": "Terms & Conditions",
+    "contact_us": "Contact Us",
+    "support_center": "Support Center",
+    "careers": "Careers",
+    "sign_in": "Sign In",
+    "view_cart": "View Cart",
+    "my_wishlist": "My Wishlist",
+    "track_my_order": "Track My Order",
+    "help_ticket": "Help Ticket",
+    "shipping_details": "Shipping Details",
+    "compare_products": "Compare products",
+    "setting_account": "Setting Account",
+    "view_all_orders": "View All Orders",
+    "collection": "Collection",
+    "search_terms": "Search Terms",
+    "advanced_search": "Advanced Search",
+    "help_faqs": "Help & FAQ's",
+    "store_location": "Store Location",
+    "orders_returns": "Orders & Returns",
+    "feedback_for_us": "Feedback for us",
+    "install_babyroom_app": "Install BabyRoom App from App Store or Google Play",
+    "secured_payment_gateways": "Secured Payment Gateways",
+    "designed_by": "Designed by",
+    "rights" : "All rights reserved",
+    "home_page": "Home Page"
+  },
+  "product_details": {
+    "in_stock" : "In Stock",
+    "out_of_stock" : "Out of Stock",
+    "vendor" : "Vendor",
+    "SKU":"SKU",
+    "description" : "Description",
+    "additional_info" : "Additional info",
+    "reviews" : "Reviews",
+    "description_details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam rem officia, corrupti reiciendis minima nisi modi, quasi, odio minus dolore impedit fuga eum eligendi? Officia doloremque facere quia. Voluptatum, accusantium!",
+    "packaging_and_delivery": "Packaging and Delivery",
+    "suggested_use": "Suggested Use",
+    "other_ingredients" : "Other Ingredients",
+    "warnings" : "Warnings",
+    "summerDeals": "Summer Deals",
+    "topBabyProducts": "TOP BABY PRODUCTS",
+    "discountMessageStart": "Get 35% OFF on",
+    "sale": "Sale"
+  },
+  "about_us":{
+    "welcome":"Welcome to The Baby Room",
+    "welcome_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis aute irure dolor in reprehenderit in voluptate id est laborum. Ius ferri velit sanctus cu, sed at soleat accusata. Dictas prompta et Ut placerat legendos interpre Donec vitae sapien ut libero venenatis faucibus Nullam quis ante Etiam sit amet orci eget. Quis commodo odio aenean sed adipiscing Turpis massa tincidunt dui ut ornare lectus Auctor elit sed vulputate mi sit amet Commodo consequat Duis aute irure dolor in reprehenderit in voluptate id est laborum.",
+    "what_we_provide": "What We Provide ?",
+    "offer": "Best Prices & Offers",
+    "info": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form",
+    "wide_assortment" : "Wide Assortment",
+    "free_delivery" : "Free Delivery",
+    "easy_return" : "Easy Returns",
+    "satisfaction": "100% Satisfaction",
+    "deal": "Great Daily Deal",
+    "our_performance": "Our performance",
+    "performance_title": "Your Partner for e-commerce grocery solution",
+    "performance_info": "Ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia. Pitatis et quasi architecto beatae vitae dicta sunt explicabo Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.",
+    "who_we_are" : "Who we are",
+    "details": "Volutpat diam ut venenatis tellus in metus. Nec dui nunc mattis enim ut tellus eros donec ac odio orci ultrices in. ellus eros donec ac odio orci ultrices in.",
+    "history": "Our history",
+    "mission": "Our mission",
+    "our_team": "Our Team",
+    "expert_team": "Meet Our Expert Team",
+    "view_all":"View All Members"
+  },
+  "cart":{
+    "clear_cart": "Clear Cart",
+    "products": "Products",
+    "unit_price": "Unit Price",
+    "quantity": "Quantity",
+    "subtotal": "Subtotal",
+    "remove": "Remove",
+    "shipping" : "Shipping",
+    "free_shipping":"Free Shipping",
+    "estimate_for":"Estimate for",
+    "CAIRO":"CAIRO",
+    "total":"Total",
+    "proceed_to_checkout": "Proceed to Checkout",
+    "apply_coupon": "Apply Coupon",
+    "promo_code":"Using A Promo Code?",
+    "coupon_code": "Coupon Code",
+    "apply": "Apply"
+  },
+  "wishlist": {
+    "clear_wishlist": "Clear Wishlist",
+    "price": "Price",
+    "stock_status": "Stock Status",
+    "remove": "Remove",
+    "action": "Action"
+  },
+  "toast_success_add_to_cart": " added to cart successfully ! ",
+  "toast_success_update_cart": "Cart updated successfully!",
+  "toast_success_remove_cart": "removed from Cart!",
+  "toast_success_add_to_wishlist": " added to Wishlist successfully ! ",
+  "toast_success_remove_to_wishlist" : " removed from Wishlist ",
+  "toast_success_add_to_compare": " added to compare successfully ! ",
+  "toast_success_remove_to_compare" : " removed from compare ",
+  "shop": {
+    "filter": "Filter",
+    "category": "By category",
+    "brand" : "By Brand",
+    "tags" : "By Tags",
+    "price" : "Price range"
+  },
+  "filter_categories": {
+    "strollers": "Strollers",
+    "dress": "Dress",
+    "toys": "Toys",
+    "clothing": "Clothing",
+    "bedding": "Bedding",
+    "footwear": "Footwear",
+    "safety": "Safety"
+  },
+  "filter_brands":{
+    "test1": "test1",
+    "test2": "test2",
+    "test3": "test3",
+    "test4": "test4"
+  },
+  "tags": {
+    "tag1": "tag1 ",
+    "tag2": "tag2",
+    "tag3": "tag3",
+    "tag4": "tag4"
+  },
+  "check_out": {
+    "title": "Check Out",
+    "have_account" : "Already have an account ?",
+    "click_here": "Click here to login",
+    "billing_details": "Billing Details",
+    "create_account": "Create an account ?",
+    "skip": "Ship to a different address ?",
+    "your_orders": "Your Orders",
+    "payment":"Payment",
+    "bank":"Direct bank transfer",
+    "cash":"Cash on delivery",
+    "place":"Place an Order",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "address_1": "Address 1",
+    "address_2": "Address line 2",
+    "state_country": "State / Country ",
+    "city_town": "City / Town",
+    "postcode_zip": "Postcode / Zip",
+    "phone_number": "Phone number",
+    "email": "Email",
+    "company": "Company",
+    "additional_information": "Additional information"
+  },
+  "compare": {
+    "title": "Compare Products",
+    "empty": "No products to compare",
+    "back": "Go Back to products",
+    "clear": "clear All"
+  },
+  "error":{
+    "not_found": "Page Not Found",
+    "broken": "The link you clicked may be broken or the page may have been removed",
+    "visit": "visit the",
+    "or": "or",
+    "problem" : "about the problem"
+  },
+  "login": {
+    "title": "Create an Account",
+    "message": "Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our privacy policy.",
+    "username": "Username",
+    "continue_with_google": "Continue with Google",
+    "email": "Email",
+    "continue_with_apple": "Continue with Apple",
+    "password": "Password",
+    "confirm_password": "Confirm password",
+    "terms": "I agree to terms & Policy.",
+    "learn_more": "Lean more",
+    "submit": "Submit & Register"
+  },
+  "forgot_password": {
+    "title": "Forgot your password?",
+    "message": "Not to worry, we got you! Let’s get you a new password. Please enter your email address or your Username.",
+    "input_placeholder": "Email or Username",
+    "terms": "I agree to terms & Policy.",
+    "learn_more": "Lean more",
+    "reset_password": "Reset password"
+  },
+  "set_new_password": {
+    "title": "Set new password",
+    "message": "Please create a new password that you don’t use on any other site.",
+    "requirements_title": "Password must",
+    "requirement_1": "Be between 9 and 64 characters",
+    "requirement_2": "Include at least two of the following",
+    "requirement_uppercase": "An uppercase character",
+    "requirement_lowercase": "A lowercase character",
+    "requirement_number": "A number",
+    "requirement_special": "A special character",
+    "password": "Password",
+    "confirm_password": "Confirm your password",
+    "button": "Set new password"
+  },
+  "add": "Add",
+  "added": "Added",
+  "contact_us": {
+    "how_can_we_help_you": "How can we help you?",
+    "let_us_know": "Let us know how we can help you",
+    "title1": "Visit Feedback",
+    "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+    "title2": "Employer Services",
+    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+    "title3": "Billing Inquiries",
+    "description3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+    "title4": "General Inquiries",
+    "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+  },
+  "my_account": {
+    "dashboard": "Dashboard",
+    "orders_list": "Orders list",
+    "track_your_orders": "Track your orders",
+    "my_address": "My address",
+    "account_details": "Account details",
+    "log_out": "Log out",
+    "your_orders": "Your Orders",
+    "order_id": "Order ID",
+    "date": "Date",
+    "status": "Status",
+    "total": "Total",
+    "actions": "Actions",
+    "view": "View",
+    "processing": "Processing",
+    "completed": "Completed",
+    "full_name": "Full Name",
+    "email":"E-mail",
+    "phone": "Phone",
+    "edit": "Edit",
+    "save": "Save changes"
+  }
+}

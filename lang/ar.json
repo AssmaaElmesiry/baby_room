@@ -1,0 +1,399 @@
+{
+  "menu": {
+    "home":"الصفحة الرئيسية",
+    "shop":"التسوق",
+    "favorites":"المفضلة",
+    "strollers":"عربات الأطفال",
+    "clothes":"الملابس",
+    "feeding":"الملابس",
+    "nursing":"الرضاعة الطبيعية",
+    "support": "مركز الدعم على مدار الساعة طوال أيام الأسبوع",
+    "shopping_cart": "عربة التسوق",
+    "cart_empty": "سلتك تنتظر، أضف منتجاتك المفضلة!",
+    "wishlist_empty": "قائمة امنياتك تنتظر، أضف منتجاتك المفضلة!",
+    "your_cart":"عربة تسوقك",
+    "your_wishlist":"قائمة أمنياتك",
+    "There_are": "هناك",
+    "products_in_your_cart": "منتجات في سلة التسوق الخاصة بك",
+    "products_in_your_wishlist": "منتجات في قائمة أمنياتك الخاصة بك",
+    "products_in_this_category" : "المنتجات في هذه الفئة",
+    "login": "تسجيل الدخول"
+  },
+  "header":{
+    "account": "حسابي",
+    "compare": "قارن",
+    "cart": "عربة التسوق",
+    "wishlist": "قائمة الرغبات",
+    "browse": "تصفح جميع الفئات",
+    "hot_deals": "عروض مميزة"
+  },
+  "home":{
+    "dont_miss": "لا تفوت عروض الأطفال المذهلة",
+    "newsletter": "اشترك في النشرة الإخبارية اليومية",
+    "subscribe": "اشترك",
+    "featured_categories": "الفئات المميزة",
+    "items": "منتج",
+    "all": "الجميع",
+    "banner1_title": "منتجات جديدة ومستعملة كل يوم لطفلك",
+    "popular_products": "المنتجات الشائعة",
+    "best_sellers": "أفضل المبيعات",
+    "best_sellers_banner": "اجلب الطبيعة إلى منزلك",
+    "deals": "عروض الأيام",
+    "all_deals": "كل العروض",
+    "add": "اضف",
+    "top_selling": "الأكثر مبيعًا",
+    "trending_products" : "المنتجات الرائجة",
+    "recently_added": "مضاف حديثًا",
+    "top_rated": "الأعلى تقييمًا",
+    "banner2_title": "ابق في المنزل واحصل على احتياجات طفلك من متجرنا",
+    "start_shopping": "ابدأ التسوق الآن، كل ما تحتاجه هنا"
+  },
+  "categories": {
+    "strollers": {
+      "name": "عربات الأطفال",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "lightweight": "عربات خفيفة",
+        "double": "عربات مزدوجة"
+      }
+    },
+    "dress": {
+      "name": "فساتين",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "casual": "فساتين كاجوال",
+        "formal": "فساتين رسمية"
+      }
+    },
+    "bedding": {
+      "name": "أغطية السرير",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "crib": "أغطية المهد",
+        "sheets": "ملاءات"
+      }
+    },
+    "footwear": {
+      "name": "أحذية",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "sneakers": "أحذية رياضية",
+        "boots": "أحذية طويلة"
+      }
+    },
+    "safety": {
+      "name": "السلامة",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "carSeats": "مقاعد السيارات",
+        "monitors": "أجهزة المراقبة"
+      }
+    },
+    "toys": {
+      "name": "ألعاب",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "educational": "ألعاب تعليمية",
+        "stuffed": "ألعاب محشوة"
+      }
+    },
+    "feeding": {
+      "name": "التغذية",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "bottles": "زجاجات الحليب",
+        "highChairs": "الكراسي العالية"
+      }
+    },
+    "bathing": {
+      "name": "الاستحمام",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "tubs": "أحواض الاستحمام",
+        "bathToys": "ألعاب الاستحمام"
+      }
+    },
+    "maternity": {
+      "name": "الأمومة",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "clothing": "ملابس الأمومة",
+        "nursing": "منتجات الرضاعة"
+      }
+    },
+    "clothes": {
+      "name": "ملابس",
+      "image": "@assets/images/bannerHomeBg.svg",
+      "subcategories": {
+        "image": "@assets/images/bannerHomeBg.svg",
+        "infant": "ملابس الرضع",
+        "toddler": "ملابس الأطفال"
+      }
+    }
+  },
+  "buttons":{
+    "shop_now": "تسوق الان", 
+    "add_to_cart": "أضف إلى السلة",
+    "read_more": "قراءة المزيد",
+    "continue_shopping": "متابعة التسوق",
+    "update_cart": "تحديث عربة التسوق"
+  },
+  "footer": {
+    "address": "العنوان",
+    "place": "51 التجمع الخامس، القسم الأول، فيلا 193، القاهرة، مصر.",
+    "call_us": "اتصل بنا",
+    "email": "البريد الإلكتروني",
+    "hours": "ساعات العمل",
+    "company": "الشركة",
+    "account": "الحساب",
+    "information": "معلومات",
+    "app_payment": "التطبيق والدفع",
+    "about_us": "من نحن",
+    "delivery_information": "معلومات التوصيل",
+    "privacy_policy": "سياسة الخصوصية",
+    "terms_conditions": "الشروط والأحكام",
+    "contact_us": "تواصل معنا",
+    "support_center": "مركز الدعم",
+    "careers": "الوظائف",
+    "sign_in": "تسجيل الدخول",
+    "view_cart": "عرض السلة",
+    "my_wishlist": "قائمة الأمنيات",
+    "track_my_order": "تتبع طلبي",
+    "help_ticket": "تذكرة المساعدة",
+    "shipping_details": "تفاصيل الشحن",
+    "compare_products": "مقارنة المنتجات",
+    "setting_account": "إعدادات الحساب",
+    "view_all_orders": "عرض جميع الطلبات",
+    "collection": "التشكيلة",
+    "search_terms": "مصطلحات البحث",
+    "advanced_search": "البحث المتقدم",
+    "help_faqs": "الأسئلة الشائعة",
+    "store_location": "موقع المتجر",
+    "orders_returns": "الطلبات والإرجاع",
+    "feedback_for_us": "ملاحظات لنا",
+    "install_babyroom_app": "قم بتثبيت تطبيق BabyRoom من متجر التطبيقات أو متجر Google Play",
+    "secured_payment_gateways": "بوابات الدفع الآمنة",
+    "designed_by": "تصميم بواسطة",
+    "rights" : "جميع الحقوق محفوظة",
+    "home_page": "الصفحه الرئيسية"
+  },
+  "product_details": {
+    "in_stock" : "متوفر في المخزون",
+    "out_of_stock" : "غير متوفر في المخزون",
+    "vendor" : "البائع",
+    "SKU":"SKU",
+    "description" : "الوصف",
+    "additional_info" : "معلومات إضافية",
+    "reviews" : "المراجعات",
+    "description_details": "نص تجريبي باللغة العربية يستخدم عادة في تصميم الصفحات والمواقع. الغرض من هذا النص هو ملء المساحات وتقديم فكرة عن كيفية ظهور المحتوى المكتوب.",
+    "packaging_and_delivery": "التغليف والتسليم",
+    "suggested_use": "الاستخدام المقترح",
+    "other_ingredients" : "المكونات الأخرى",
+    "warnings" : "تحذيرات",
+    "summerDeals": "عروض الصيف",
+    "topBabyProducts": "منتجات الأطفال",
+    "discountMessageStart": "احصل على خصم 35% على",
+    "discountMessageEnd": "العناصر المحددة",
+    "sale": "تخفيض"
+  },
+  "about_us":{
+    "welcome":"مرحباً بكم في بابي رووم",
+    "welcome_description": "لوريم إيبسوم هو نص وهمي يُستخدم في صناعة الطباعة والتنضيد. يُعتبر هذا النص نموذجًا قياسيًا لقطاع الطباعة منذ القرن السادس عشر. عندما ظهر تصميم جديد، تمت كتابة نصوص مماثلة من قبل مجموعة من المتخصصين هذا النص يُستخدم عادةً عند عدم رغبة المصممين في التركيز على محتوى معين لذا فإن لوريم إيبسوم يُستخدم كوسيلة لتجربة التصميم.",
+    "what_we_provide": "ماذا نقدم؟",
+    "offer": "أفضل الأسعار والعروض",
+    "info": "تتوفر العديد من تنويعات نصوص لوريم إيبسوم، ولكن الأغلبية تعرضت لبعض التغييرات بطريقة ما",
+    "wide_assortment": "تشكيلة واسعة",
+    "free_delivery": "توصيل مجاني",
+    "easy_return": "إرجاع سهل",
+    "satisfaction": "رضا بنسبة 100%",
+    "deal": "صفقة يومية رائعة",
+    "our_performance": "أداءنا",
+    "performance_title": "شريكك في حلول البقالة الخاصة بالتجارة الإلكترونية",
+    "performance_info": "ل لوريم إيبسوم هو نص وهمي يُستخدم في صناعة الطباعة والتنضيد. يُعتبر هذا النص نموذجًا قياسيًا لقطاع الطباعة منذ القرن السادس عشر. عندما ظهر تصميم جديد، تمت كتابة نصوص مماثلة من قبل مجموعة من المتخصصين هذا النص يُستخدم عادةً عند عدم رغبة المصممين في التركيز على محتوى معين لذا فإن لوريم إيبسوم يُستخدم كوسيلة لتجربة التصميم.", 
+    "who_we_are" : "من نحن", 
+    "details": " لوريم إيبسوم هو نص وهمي يُستخدم في صناعة الطباعة والتنضيد. يُعتبر هذا النص نموذجًا قياسيًا لقطاع الطباعة", 
+    "history": " تاريخنا",
+    "mission": "مهمتنا",
+    "our_team": "فريقنا",
+    "expert_team": "تعرف على فريق الخبراء لدينا",
+    "view_all":"عرض جميع الأعضاء"
+  },
+  "cart":{
+    "clear_cart": "تفريغ السلة",
+    "products": "المنتجات",
+    "unit_price": "سعر المنتج",
+    "quantity": "الكمية",
+    "subtotal": "المجموع الفرعي",
+    "remove": "حذف",
+    "shipping": "الشحن",
+    "free_shipping": "شحن مجاني",
+    "estimate_for": "تقدير لـ",
+    "CAIRO": "القاهرة",
+    "total": "الإجمالي",
+    "proceed_to_checkout": "المتابعة لإتمام الشراء",
+    "apply_coupon": "تطبيق الكوبون",
+    "promo_code":"هل تستخدم رمزًا ترويجيًا؟",
+    "coupon_code": "رمز الكوبون",
+    "apply": "تطبيق"
+  },
+  "wishlist": {
+    "clear_wishlist": "تفريغ القائمة",
+    "price": "السعر",
+    "stock_status": "حالة المخزون",
+    "remove": "حذف",
+    "action": "اجراء"
+  },
+  "toast_success_add_to_cart": " تمت إضافته إلى سلة التسوق بنجاح ! ",
+  "toast_success_update_cart": "تم تحديث السلة بنجاح!",
+  "toast_success_remove_cart": " تم ازالته من السلة ",
+  "toast_success_add_to_wishlist": " تمت إضافته الى قائمة الامنتيات ",
+  "toast_success_remove_to_wishlist" : " تم ازالته من قائمة الامنيات",
+  "toast_success_add_to_compare": " تمت إضافته الى القارنة  ",
+  "toast_success_remove_to_comparet" : " تم ازالته من  القارنة",
+  "shop": {
+    "filter": "التصنيف",
+    "category": "حسب الفئة",
+    "brand": "حسب العلامة التجارية",
+    "tags": "حسب العلامات",
+    "price": "نطاق السعر"
+  },
+  "filter_categories": {
+    "strollers": "عربات الأطفال",
+    "dress": "فساتين",
+    "toys": "ألعاب",
+    "clothing": "ملابس",
+    "bedding": "مفروشات",
+    "footwear": "أحذية",
+    "safety": "الأمان"
+  },
+  "filter_brands":{
+    "test1": "تجربه 1 ",
+    "test2": "تجربه 2 ",
+    "test3": "تجربه 3 ",
+    "test4": "تجربه 4 "
+  },
+  "tags": {
+    "tag1": "تجربه 1 ",
+    "tag2": "تجربه 2 ",
+    "tag3": "تجربه 3 ",
+    "tag4": "تجربه 4 "
+  },
+  "check_out": {
+    "title": "إتمام الشراء",
+    "have_account" : "هل لديك حساب بالفعل؟",
+    "click_here": "اضغط هنا لتسجيل الدخول",
+    "billing_details": "تفاصيل الفاتورة",
+    "create_account": "إنشاء حساب؟",
+    "skip": "الشحن إلى عنوان مختلف؟",
+    "your_orders": "طلبك",
+    "payment":"الدفع",
+    "bank":"تحويل بنكي مباشر",
+    "cash":"الدفع عند الاستلام",
+    "place":"إتمام الطلب",
+    "first_name": "الاسم الأول",
+    "last_name": "اسم العائلة",
+    "address_1": "العنوان 1",
+    "address_2": "العنوان 2",
+    "state_country": "الولاية / الدولة",
+    "city_town": "المدينة / البلدة",
+    "postcode_zip": "الرمز البريدي",
+    "phone_number": "رقم الهاتف",
+    "email": "البريد الإلكتروني",
+    "company": "الشركة",
+    "additional_information": "معلومات إضافية"
+  },
+  "compare": {
+    "title": "مقارنة المنتجات",
+    "empty": "لا يوجد منتجات للمقارنة",
+    "back": "العودة إلى المنتاجات",
+    "clear": "حذف الكل"
+  },
+  "error":{
+    "not_found": "لم يتم العثور على الصفحة",
+    "broken": "قد يكون الرابط الذي نقرت عليه معطلاً أو قد تكون الصفحة قد تمت إزالتها",
+    "visit": "قم بزيارة",
+    "or": "أو",
+    "problem" : "حول المشكلة"
+  },
+  "login":{
+    "title": "إنشاء حساب",
+    "message": "سيتم استخدام بياناتك الشخصية لدعم تجربتك في هذا الموقع، ولإدارة الوصول إلى حسابك، ولأغراض أخرى موضحة في سياسة الخصوصية الخاصة بنا.",
+    "username": "اسم المستخدم",
+    "continue_with_google": "متابعة مع Google",
+    "email": "البريد الإلكتروني",
+    "continue_with_apple": "متابعة مع Apple",
+    "password": "كلمة المرور",
+    "confirm_password": "تأكيد كلمة المرور",
+    "terms": "أوافق على الشروط والسياسة.",
+    "learn_more": "تعلم المزيد",
+    "submit": "إرسال وتسجيل"
+  },
+  "forgot_password": {
+    "title": "نسيت كلمة المرور؟",
+    "message": "لا داعي للقلق، نحن هنا لمساعدتك! دعنا نساعدك في الحصول على كلمة مرور جديدة. يرجى إدخال عنوان بريدك الإلكتروني أو اسم المستخدم الخاص بك.",
+    "input_placeholder": "البريد الإلكتروني أو اسم المستخدم",
+    "terms": "أوافق على الشروط والسياسة.",
+    "learn_more": "تعلم المزيد",
+    "reset_password": "إعادة تعيين كلمة المرور"
+  },
+  "set_new_password": {
+    "title": "تعيين كلمة مرور جديدة",
+    "message": "يرجى إنشاء كلمة مرور جديدة لا تستخدمها في أي موقع آخر.",
+    "requirements_title": "يجب أن تكون كلمة المرور",
+    "requirement_1": "بين 9 و 64 حرفًا",
+    "requirement_2": "تشمل على الأقل اثنين مما يلي",
+    "requirement_uppercase": "حرف كبير",
+    "requirement_lowercase": "حرف صغير",
+    "requirement_number": "رقم",
+    "requirement_special": "حرف خاص",
+    "password": "كلمة المرور",
+    "confirm_password": "تأكيد كلمة المرور",
+    "button": "تعيين كلمة مرور جديدة"
+  },
+  "add": "إضافة",
+  "added": "تم الإضافة",
+  "contact_us": {
+    "how_can_we_help_you": "كيف يمكننا مساعدتك؟",
+    "let_us_know": "أخبرنا كيف يمكننا مساعدتك",
+    "title1": "زيارة الملاحظات",
+    "description1": "لوريم إيبسوم دولار سيت أميت، كونسكتتور أديبيسكتينغ إليت. أوت إليت تيلوس، لوكتوس نيك أوللامكوربر ماتي، بلفينار دابيبوس ليو.",
+    "title2": "خدمات أصحاب العمل",
+    "description2": "لوريم إيبسوم دولار سيت أميت، كونسكتتور أديبيسكتينغ إليت. أوت إليت تيلوس، لوكتوس نيك أوللامكوربر ماتي، بلفينار دابيبوس ليو.",
+    "title3": "استفسارات الفواتير",
+    "description3": "لوريم إيبسوم دولار سيت أميت، كونسكتتور أديبيسكتينغ إليت. أوت إليت تيلوس، لوكتوس نيك أوللامكوربر ماتي، بلفينار دابيبوس ليو.",
+    "title4": "استفسارات عامة",
+    "description4": "لوريم إيبسوم دولار سيت أميت، كونسكتتور أديبيسكتينغ إليت. أوت إليت تيلوس، لوكتوس نيك أوللامكوربر ماتي، بلفينار دابيبوس ليو."
+  },
+  "my_account": {
+    "dashboard": "لوحة التحكم",
+    "orders_list": "قائمة الطلبات",
+    "track_your_orders": "تتبع طلباتك",
+    "my_address": "عنواني",
+    "account_details": "تفاصيل الحساب",
+    "log_out": "تسجيل الخروج",
+    "your_orders": "طلبك",
+    "order_id": "رقم الطلب",
+    "date": "التاريخ",
+    "status": "الحالة",
+    "total": "المجموع",
+    "actions": "الإجراءات",
+    "view": "عرض",
+    "processing": "قيد المعالجة",
+    "completed": "مكتمل",
+    "full_name": "الاسم ثلاثي",
+    "email":"البريد الإلكتروني",
+    "phone": "الهاتف",
+    "edit": "تعديل",
+    "save" : "حفظ التعديلات"
+  }
+}
+     

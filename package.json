@@ -1,0 +1,41 @@
+{
+  "name": "baby_room",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-countdown": "^2.1.2",
+    "@dotlottie/dotlottie-js": "^0.8.1",
+    "@fancyapps/ui": "^5.0.36",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-regular-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "@lottiefiles/vue-lottie-player": "^1.1.0",
+    "animate.css": "^4.1.1",
+    "floating-vue": "^5.2.2",
+    "pinia": "^2.1.7",
+    "swiper": "^11.1.14",
+    "vue": "^3.5.10",
+    "vue-i18n": "^10.0.3",
+    "vue-number-animation": "^2.0.2",
+    "vue-router": "^4.3.3",
+    "vue-select": "^4.0.0-beta.6",
+    "vue-toastification": "^2.0.0-rc.2",
+    "vue3-autocounter": "^1.0.6",
+    "vue3-star-ratings": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "vite": "^5.3.1"
+  }
+}
