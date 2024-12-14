@@ -2,8 +2,8 @@ import { registerUIComponents } from "./ui-components";
 
 
 
-import "../assets/css/tailwind.css";
-import "../assets/css/app.css";
+import "@/assets/css/tailwind.css";
+import "@/assets/css/app.css";
 import 'vue-select/dist/vue-select.css';
 import 'floating-vue/dist/style.css'
 import "vue-toastification/dist/index.css";
@@ -23,10 +23,10 @@ import Vue3Autocounter from 'vue3-autocounter';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
-import App from '../pages/App.vue'
-import router from '../router'
-import localeEn from '../lang/en.json'
-import localeAr from '../lang/ar.json'
+import App from '@/pages/App.vue'
+import router from '@/router'
+import localeEn from '@lang/en.json'
+import localeAr from '@lang/ar.json'
 
 import { fas } from '@fortawesome/free-solid-svg-icons';
 import { far } from '@fortawesome/free-regular-svg-icons';
