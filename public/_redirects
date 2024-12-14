@@ -1,1 +1,2 @@
 /about_us  /index.html  200
+/:pathMatch(.*)* /index.html  200
