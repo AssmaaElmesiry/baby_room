@@ -1,6 +1,6 @@
 <template>
   <div class="w-full rounded-2xl overflow-hidden" style="height: 483px">
-    <img src="@assets/images/map.png" class="w-full h-full object-cover" />
+    <img src="@/public/assets/images/map.png" class="w-full h-full object-cover" />
   </div>
   <div class="container mx-auto px-4 lg:px-10 md:px-12">
     <div class="grid xl:grid-cols-3 grid-cols-1 gap-6">

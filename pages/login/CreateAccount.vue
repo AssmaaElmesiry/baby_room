@@ -30,11 +30,11 @@
       </div>
       <div class="border border-[#E5E5E5] rounded-2xl flex flex-col gap-4 py-8 px-12">
         <div class=" flex gap-4 items-center h-14 border border-[#F2F3F4] shadow-md px-6 rounded-2xl cursor-pointer">
-          <img src="@assets/images/GoogleLogo.svg" />
+          <img src="@/public/assets/images/GoogleLogo.svg" />
           <p class="font-bold text-xl text-gray">Continue with Google</p>
         </div>
         <div class="bg-black flex gap-4 items-center h-14 shadow-md px-6 rounded-2xl cursor-pointer">
-          <img src="@assets/images/AppleLogo.svg" />
+          <img src="@/public/assets/images/AppleLogo.svg" />
           <p class="font-bold text-xl text-white">Continue with Apple</p>
         </div>
       </div>

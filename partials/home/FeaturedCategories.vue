@@ -98,7 +98,7 @@
         <router-link :to="{ name: 'CategoryFilter', params: { categoryId: subKey } }"
           class="flex flex-col gap-5 items-center px-5 py-4"
         >
-          <img src="@/assets/images/bannerHomeBg.svg" alt="subcategory image" class="md:w-full w-1/2"/>
+          <img src="@/public/assets/images/bannerHomeBg.svg" alt="subcategory image" class="md:w-full w-1/2"/>
           <div class="flex flex-col gap-2 justify-center items-center">
             <p class="font-bold text-heading w-max">{{ subValue.name }}</p>
             <span class="lato text-[#B6B6B6] text-xs">{{ subValue.items }} {{ $t('home.items') }}</span>
@@ -115,7 +115,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
 import { Navigation } from 'swiper/modules';
 import 'swiper/css/navigation';
 import 'swiper/css';
-import CategoryImage from '@/assets/images/bannerHomeBg.svg';
+import CategoryImage from '@/public/assets/images/bannerHomeBg.svg';
 
 export default {
   components: {

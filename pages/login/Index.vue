@@ -10,7 +10,7 @@
   <div class="flex flex-col items-center justify-center min-h-screen container mx-auto px-4 3xl:px-40 xl:px-20 lg:px-10 md:px-10">
     <div class="grid xl:grid-cols-2 grid-cols-1 gap-14 pt-24 pb-28">
       <div class="flex items-center justify-center h-full xl:w-[500px] overflow-hidden rounded-2xl">
-        <img src="@assets/images/bestsellerBanner.png" class="w-full h-full object-cover"/>
+        <img src="@/public/assets/images/bestsellerBanner.png" class="w-full h-full object-cover"/>
       </div>
       <div class="py-8 flex flex-col gap-5">
         <h2 class="text-5xl font-bold text-heading">Login</h2>

@@ -10,7 +10,7 @@
       </div>
     </div>
     <div class="hanging-image">
-      <img src="@assets/images/bannerHomeBg.svg" class=""/>
+      <img src="@/public/assets/images/bannerHomeBg.svg" class=""/>
     </div>
   </div>
 </template>

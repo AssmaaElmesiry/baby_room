@@ -5,7 +5,7 @@
       <router-link to="/products" class="3xl:text-3xl xl:text-2xl text-[#2B3D34#2B3D34] lato">{{ $t('home.start_shopping') }}</router-link>
     </div>
     <div class="flex justify-center">
-      <img src="@assets/images/bannerHomeBg.svg" class="w-3/4"/>
+      <img src="@/public/assets/images/bannerHomeBg.svg" class="w-3/4"/>
     </div>
   </div>
 </template>

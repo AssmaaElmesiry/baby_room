@@ -2,8 +2,8 @@ import { registerUIComponents } from "./ui-components";
 
 
 
-import "@/assets/css/tailwind.css";
-import "@/assets/css/app.css";
+import "@/public/assets/css/tailwind.css";
+import "@/public/assets/css/app.css";
 import 'vue-select/dist/vue-select.css';
 import 'floating-vue/dist/style.css'
 import "vue-toastification/dist/index.css";

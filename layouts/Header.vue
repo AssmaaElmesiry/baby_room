@@ -6,7 +6,7 @@
         <!-- logo -->
         <div class="flex xl:order-none order-2">
           <router-link to="/" class="flex xl:justify-start justify-end items-center">
-            <img src="@assets/images/BRLogo.svg" class="xl:w-full w-4/5"/>
+            <img src="@/public/assets/images/BRLogo.svg" class="xl:w-full w-4/5"/>
           </router-link>
         </div>
         <!-- Search Bar -->
@@ -166,7 +166,7 @@
     <ui-slide-over :show="isSlideOpen" @closeSlideOver="closeSlideOver">
       <template #title>
         <router-link to="/" class="flex justify-start items-center">
-          <img src="@assets/images/BRLogo.svg" class="xl:w-full w-4/5"/>
+          <img src="@/public/assets/images/BRLogo.svg" class="xl:w-full w-4/5"/>
         </router-link>
       </template>
       <template #content>
@@ -220,7 +220,7 @@
       <template #content>
         <!-- Empty -->
         <div  v-if="cartItems.length === 0" class="flex flex-col gap-4 justify-center items-center pt-8" @click="closeSlideOver">
-          <!-- <img src="@assets/images/cart_empty.png" alt="Cart is Empty" /> -->
+          <!-- <img src="@/public/assets/images/cart_empty.png" alt="Cart is Empty" /> -->
           <dotlottie-player src="https://lottie.host/52fdba64-5dd8-429a-8255-61e85e5ac683/RgiNROfEUt.json" background="transparent" speed="1" style="width: 300px; height: 300px" direction="-1" playMode="normal" loop autoplay></dotlottie-player>
           <p class="text-center text-heading font-bold text-xl">{{ $t('menu.cart_empty') }}</p>
         </div>

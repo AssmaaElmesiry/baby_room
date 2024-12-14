@@ -130,7 +130,7 @@
               </label>
             </div>
             <div class="pt-5" v-if="formData.paymentMethod === 'bank'">
-              <img src="@assets/images/payment_logo.png" />
+              <img src="@/public/assets/images/payment_logo.png" />
             </div>
           </div>
         </div>

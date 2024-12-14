@@ -1,7 +1,7 @@
 <template>
   <div class="grid lg:grid-cols-2 grid-cols-1 gap-14 px-12">
     <div class="">
-      <img src="@assets/images/bestsellerBanner.png" class="w-full h-full object-cover"/>
+      <img src="@/public/assets/images/bestsellerBanner.png" class="w-full h-full object-cover"/>
     </div>
     <div>
       <div>
@@ -17,16 +17,16 @@
         class="aboutus"
       >
         <swiper-slide>
-          <img src="@assets/images/product2.png"/>
+          <img src="@/public/assets/images/product2.png"/>
         </swiper-slide>
         <swiper-slide>
-          <img src="@assets/images/product2.png"/>
+          <img src="@/public/assets/images/product2.png"/>
         </swiper-slide>
         <swiper-slide>
-          <img src="@assets/images/product2.png"/>
+          <img src="@/public/assets/images/product2.png"/>
         </swiper-slide>
         <swiper-slide>
-          <img src="@assets/images/product2.png"/>
+          <img src="@/public/assets/images/product2.png"/>
         </swiper-slide>
       </Swiper>
     </div>

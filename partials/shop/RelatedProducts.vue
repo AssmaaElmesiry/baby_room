@@ -61,7 +61,7 @@
               <h2 class="text-heading font-bold 2xl:text-4xl text-2xl">{{ $t('product_details.topBabyProducts') }}</h2>
               <span class="text-gray lato 2xl:text-lg">{{ $t('product_details.topBabyProducts') }}</span>
             </div>
-            <div class="bg-[url('@assets/images/bestsellerBanner.png')] bg-no-repeat bg-cover h-full pt-32">
+            <div class="bg-[url('@/public/assets/images/bestsellerBanner.png')] bg-no-repeat bg-cover h-full pt-32">
               <router-link to="/products" class="ltr:ml-12 rtl:mr-12 w-[108px] h-8 flex justify-center items-center gap-2 text-xs bg-primary-100 text-white hover:bg-second transform duration-500 ease-in-out font-bold mb-10">
               {{ $t('buttons.shop_now') }}
               <img src="@components/svg/arrow_right.svg" class="rtl:rotate-180"/>

@@ -13,7 +13,7 @@
         :key="product.id"
         class="flex flex-col group"
       >
-        <img src="@assets/images/bestsellerBanner.png" class="rounded-3xl"/>
+        <img src="@/public/assets/images/bestsellerBanner.png" class="rounded-3xl"/>
         <div class="-mt-32 flex flex-col">
           <div>
             <vue-countdown 

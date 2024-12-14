@@ -2,10 +2,10 @@
   <div class="px-12">
     <div class="grid 2xl:grid-cols-3 xl:grid-cols-2 grid-cols-1 gap-7">
       <div class="flex xl:justify-start justify-center items-center xl:order-none order-2">
-        <img src="@assets/images/performance1.png" class="h-[438px] w-full 3xl:w-[395px] rounded-2xl object-cover"/>
+        <img src="@/public/assets/images/performance1.png" class="h-[438px] w-full 3xl:w-[395px] rounded-2xl object-cover"/>
       </div>
       <div class="3xl:w-[426px] h-[575px] rounded-2xl overflow-hidden">
-        <img src="@assets/images/performance2.png" class="w-full h-full object-cover"/>
+        <img src="@/public/assets/images/performance2.png" class="w-full h-full object-cover"/>
       </div>
       <div class="flex flex-col gap-3 2xl:col-span-1 col-span-3">
         <span class="text-gray font-bold 3xl:text-2xl">{{ $t('about_us.our_performance') }}</span>

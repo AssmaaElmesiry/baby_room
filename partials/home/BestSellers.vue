@@ -1,6 +1,6 @@
 <template>
   <div class="grid xl:grid-cols-5 gap-2 lg:grid-cols-3 md:grid-cols-2 grid-cols-1">
-    <div class="relative z-10 bg-[url('@assets/images/bestsellerBanner.png')]">
+    <div class="relative z-10 bg-[url('@/public/assets/images/bestsellerBanner.png')]">
     <div class="p-9 flex flex-col justify-between h-full">
       <p class="text-[41px] text-heading font-bold md:leading-[48px] pb-8">{{ $t('home.best_sellers_banner') }}</p>
       <router-link to="/products" class="w-[108px] h-8 flex justify-center items-center gap-2 text-xs bg-primary-100 text-white hover:bg-second transform duration-500 ease-in-out font-bold">

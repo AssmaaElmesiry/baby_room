@@ -4,7 +4,7 @@
     <!-- Top Footer -->
     <div class="grid xl:grid-cols-8 lg:grid-cols-6 md:grid-cols-4 pb-16 xl:gap-8 gap-12 border-b border-[#D8F1E5]">
       <div class="flex flex-col gap-10 items-start col-span-2">
-        <img src="@assets/images/BRLogo.svg" alt="logo" />
+        <img src="@/public/assets/images/BRLogo.svg" alt="logo" />
         <div class="flex flex-col gap-[10px]">
           <div class="flex items-start gap-2">
             <img src="@components/svg/marker.svg" />
@@ -84,11 +84,11 @@
         <div class="flex flex-col gap-5">
           <p class="lato text-sm text-gray">{{ $t('footer.install_babyroom_app') }}</p>
           <div class="flex gap-6">
-            <img src="@assets/images/app_store.svg"/>
-            <img src="@assets/images/google_play.svg"/>
+            <img src="@/public/assets/images/app_store.svg"/>
+            <img src="@/public/assets/images/google_play.svg"/>
           </div>
           <p class="lato text-sm text-gray">{{ $t('footer.secured_payment_gateways') }}</p>
-          <img src="@assets/images/payment_method.svg" />
+          <img src="@/public/assets/images/payment_method.svg" />
         </div>
       </div>
       <!-- Mobile Footer -->
@@ -159,11 +159,11 @@
             <div v-if="isPayment" class="flex flex-col gap-5">
               <p class="lato text-sm text-gray">{{ $t('footer.install_babyroom_app') }}</p>
               <div class="flex gap-6">
-                <img src="@assets/images/app_store.svg" />
-                <img src="@assets/images/google_play.svg" />
+                <img src="@/public/assets/images/app_store.svg" />
+                <img src="@/public/assets/images/google_play.svg" />
               </div>
               <p class="lato text-sm text-gray">{{ $t('footer.secured_payment_gateways') }}</p>
-              <img src="@assets/images/payment_method.svg" />
+              <img src="@/public/assets/images/payment_method.svg" />
             </div>
           </transition>
         </div>

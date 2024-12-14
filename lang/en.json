@@ -51,90 +51,90 @@
   "categories": {
     "strollers": {
       "name": "Strollers",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "lightweight": "Lightweight Strollers",
         "double": "Double Strollers"
       }
     },
     "dress": {
       "name": "Dresses",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "casual": "Casual Dresses",
         "formal": "Formal Dresses"
       }
     },
     "bedding": {
       "name": "Bedding",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "crib": "Crib Bedding",
         "sheets": "Sheets"
       }
     },
     "footwear": {
       "name": "Footwear",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "sneakers": "Sneakers",
         "boots": "Boots"
       }
     },
     "safety": {
       "name": "Safety",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "carSeats": "Car Seats",
         "monitors": "Monitors"
       }
     },
     "toys": {
       "name": "Toys",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "educational": "Educational Toys",
         "stuffed": "Stuffed Toys"
       }
     },
     "feeding": {
       "name": "Feeding",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "bottles": "Bottles",
         "highChairs": "High Chairs"
       }
     },
     "bathing": {
       "name": "Bathing",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "tubs": "Bath Tubs",
         "bathToys": "Bath Toys"
       }
     },
     "maternity": {
       "name": "Maternity",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "clothing": "Maternity Clothing",
         "nursing": "Nursing Products"
       }
     },
     "clothes": {
       "name": "Clothes",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "infant": "Infant Clothes",
         "toddler": "Toddler Clothes"
       }

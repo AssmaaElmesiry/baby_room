@@ -79,7 +79,7 @@
             </div>
           </div>
           <div v-if="wishlistItems.length === 0" class="flex flex-col gap-4 justify-center items-center pt-8">
-            <img src="@assets/images/cart_empty.png" alt="Cart is Empty" class="w-1/2"/>
+            <img src="@/public/assets/images/cart_empty.png" alt="Cart is Empty" class="w-1/2"/>
             <p class="text-center text-heading font-bold text-xl">{{ $t('menu.cart_empty') }}</p>
           </div>
           <div v-for="item in wishlistItems" :key="item.id" class="flex flex-col xl:flex-row gap-4 justify-between items-center border-b border-[#E5E5E5] py-4">

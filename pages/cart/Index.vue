@@ -13,7 +13,7 @@
     <div class="container mx-auto px-4 3xl:px-40 xl:px-20 lg:px-10 md:px-10 pt-12">
       <!-- Empty Cart -->
       <div v-if="cartItems.length === 0" class="flex flex-col gap-4 justify-center items-center pt-8 xl:col-span-2">
-        <!-- <img src="@assets/images/cart_empty.png" alt="Cart is Empty" class="w-1/2"/> -->
+        <!-- <img src="@/public/assets/images/cart_empty.png" alt="Cart is Empty" class="w-1/2"/> -->
         <dotlottie-player src="https://lottie.host/52fdba64-5dd8-429a-8255-61e85e5ac683/RgiNROfEUt.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
         <p class="text-center text-heading font-bold text-xl">{{ $t('menu.cart_empty') }}</p>
       </div>
@@ -105,7 +105,7 @@
             </div>
           </div>
           <div v-if="cartItems.length === 0" class="flex flex-col gap-4 justify-center items-center pt-8">
-            <img src="@assets/images/cart_empty.png" alt="Cart is Empty" class="w-1/2"/>
+            <img src="@/public/assets/images/cart_empty.png" alt="Cart is Empty" class="w-1/2"/>
             <p class="text-center text-heading font-bold text-xl">{{ $t('menu.cart_empty') }}</p>
           </div>
           <div v-for="item in cartItems" :key="item.id" class="flex flex-col xl:flex-row gap-4 justify-between items-center border-b border-[#E5E5E5] py-4">

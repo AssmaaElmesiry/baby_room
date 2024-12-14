@@ -51,90 +51,90 @@
   "categories": {
     "strollers": {
       "name": "عربات الأطفال",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "lightweight": "عربات خفيفة",
         "double": "عربات مزدوجة"
       }
     },
     "dress": {
       "name": "فساتين",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "casual": "فساتين كاجوال",
         "formal": "فساتين رسمية"
       }
     },
     "bedding": {
       "name": "أغطية السرير",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "crib": "أغطية المهد",
         "sheets": "ملاءات"
       }
     },
     "footwear": {
       "name": "أحذية",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "sneakers": "أحذية رياضية",
         "boots": "أحذية طويلة"
       }
     },
     "safety": {
       "name": "السلامة",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "carSeats": "مقاعد السيارات",
         "monitors": "أجهزة المراقبة"
       }
     },
     "toys": {
       "name": "ألعاب",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "educational": "ألعاب تعليمية",
         "stuffed": "ألعاب محشوة"
       }
     },
     "feeding": {
       "name": "التغذية",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "bottles": "زجاجات الحليب",
         "highChairs": "الكراسي العالية"
       }
     },
     "bathing": {
       "name": "الاستحمام",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "tubs": "أحواض الاستحمام",
         "bathToys": "ألعاب الاستحمام"
       }
     },
     "maternity": {
       "name": "الأمومة",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "clothing": "ملابس الأمومة",
         "nursing": "منتجات الرضاعة"
       }
     },
     "clothes": {
       "name": "ملابس",
-      "image": "@assets/images/bannerHomeBg.svg",
+      "image": "@/public/assets/images/bannerHomeBg.svg",
       "subcategories": {
-        "image": "@assets/images/bannerHomeBg.svg",
+        "image": "@/public/assets/images/bannerHomeBg.svg",
         "infant": "ملابس الرضع",
         "toddler": "ملابس الأطفال"
       }
