@@ -35,7 +35,7 @@ export const useProductsStore = defineStore('products', {
   actions: {
     async fetchProducts(lang) {
       try {
-        const response = await fetch('/content/products/products.json');
+        const response = await fetch('../../content/products/products.json');
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
@@ -47,7 +47,7 @@ export const useProductsStore = defineStore('products', {
     },
     async fetchCategories(lang) {
       try {
-        const response = await fetch('/content/categories/categories.json');
+        const response = await fetch('../../content/categories/categories.json');
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
