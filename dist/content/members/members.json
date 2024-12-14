@@ -1,0 +1,46 @@
+{
+  "en": [
+    {
+      "id": 1,
+      "name":"Dilan Specter",
+      "position":"Head Engineer",
+      "image":"../../assets/images/member1.png",
+      "facebook":"",
+      "twitter":"",
+      "youtube": "",
+      "instagram":""
+    },
+    {
+      "id": 2,
+      "name":"Merinda",
+      "position":"CEO & Co-Founder",
+      "image":"../../assets/images/member2.png",
+      "facebook":"",
+      "twitter":"",
+      "youtube": "",
+      "instagram":""
+    }
+  ],
+  "ar": [
+    {
+      "id": 1,
+      "name": "ديـلان سبيكتر",
+      "position": "رئيس المهندسين",
+      "image":"../../assets/images/member1.png",
+      "facebook":"",
+      "twitter":"",
+      "youtube": "",
+      "instagram":""
+    },
+    {
+      "id": 2,
+      "name": "ميريندا",
+      "position": "المدير التنفيذي والشريك المؤسس",
+      "image":"../../assets/images/member2.png",
+      "facebook":"",
+      "twitter":"",
+      "youtube": "",
+      "instagram":""
+    }
+  ]
+}
